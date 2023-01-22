@@ -1,17 +1,10 @@
-footer{
-	background-color: #FFFFFF;
-	height: 60px;
-	width: 100%;
-	border-top: 1px;
-	border-top-color: #CCCCCC;
-	border-top-style: solid;
-	position: fixed;
-	bottom: 0
-    }
-
-footer p{
-	/*vertical align text*/
-    line-height: 60px;
-    margin: 0;
+footer {
+    background-color: white;
+    height: 60px;
+    width: 100%;
+    border-top: 1px solid #CCCCCC;
+    position: fixed;
+    bottom: 0;
     text-align: center;
-    }
+    line-height: 60px;
+}
